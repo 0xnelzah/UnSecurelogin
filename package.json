@@ -1,8 +1,8 @@
 {
   "name": "very-bored",
   "version": "1.0.0",
-  "description": "No ide",
-  "main": "aes.js",
+  "description": "No idea",
+  "main": "login.js",
   "dependencies": {
     "accessory": "^1.1.0",
     "aes-everywhere": "^1.0.0",
