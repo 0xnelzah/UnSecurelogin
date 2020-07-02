@@ -1,7 +1,7 @@
 {
-  "name": "very-bored",
+  "name": "unsecurelogin",
   "version": "1.0.0",
-  "description": "No idea",
+  "description": "Got bored.",
   "main": "login.js",
   "dependencies": {
     "accessory": "^1.1.0",
@@ -14,8 +14,8 @@
     "copy-descriptor": "^0.1.1",
     "core-js": "^2.6.11",
     "core-util-is": "^1.0.2",
-    "crypto-js": "^4.0.0",
     "currently-unhandled": "^0.4.1",
+    "crypto-js": "^4.0.0",
     "dash-ast": "^1.0.0",
     "decamelize": "^1.2.0",
     "decode-uri-component": "^0.2.0",
@@ -30,12 +30,12 @@
     "esprima-fb": "^3001.0001.0000-dev-harmony-fb",
     "estraverse": "^1.5.1",
     "esutils": "^2.0.3",
-    "eventemitter2": "^0.4.14",
     "events": "^1.1.1",
+    "eventemitter2": "^0.4.14",
     "exit": "^0.1.2",
     "extend": "^1.3.0",
-    "extend-shallow": "^3.0.2",
     "fast-safe-stringify": "^2.0.7",
+    "extend-shallow": "^3.0.2",
     "file-uri-to-path": "^1.0.0",
     "find-parent-dir": "^0.3.0",
     "for-in": "^1.0.2",
@@ -64,15 +64,15 @@
     "indexof": "^0.0.1",
     "inherits": "^2.0.4",
     "invariant": "^2.2.4",
-    "is-accessor-descriptor": "^0.1.6",
-    "is-binary-path": "^1.0.1",
     "is-arrayish": "^0.2.1",
+    "is-binary-path": "^1.0.1",
+    "is-accessor-descriptor": "^0.1.6",
     "is-buffer": "^1.1.6",
     "is-data-descriptor": "^0.1.4",
     "is-defined": "^1.0.0",
-    "is-descriptor": "^0.1.6",
-    "is-extglob": "^2.1.1",
     "is-extendable": "^0.1.1",
+    "is-extglob": "^2.1.1",
+    "is-descriptor": "^0.1.6",
     "is-finite": "^1.1.0",
     "is-glob": "^4.0.1",
     "is-number": "^3.0.0",
@@ -84,14 +84,14 @@
     "js-tokens": "^3.0.2",
     "jsesc": "^1.3.0",
     "json-stable-stringify": "^0.0.1",
-    "json5": "^0.5.1",
     "jsonify": "^0.0.0",
+    "json5": "^0.5.1",
     "jsonparse": "^1.3.1",
     "kind-of": "^6.0.3",
     "lazy-cache": "^1.0.4",
     "lodash": "^4.17.15",
-    "longest": "^1.0.1",
     "lodash.memoize": "^3.0.4",
+    "longest": "^1.0.1",
     "loose-envify": "^1.4.0",
     "lru-cache": "^2.7.3",
     "map-cache": "^0.2.2",
@@ -103,14 +103,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xnelzah/UnSecure-Login-thing..git"
+    "url": "git+https://github.com/0xnelzah/UnSecurelogin.git"
   },
+  "author": "Nelzah#3141",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xnelzah/UnSecure-Login-thing./issues"
+    "url": "https://github.com/0xnelzah/UnSecurelogin/issues"
   },
-  "homepage": "https://github.com/0xnelzah/UnSecure-Login-thing.#readme"
+  "homepage": "https://github.com/0xnelzah/UnSecurelogin#readme"
 }
